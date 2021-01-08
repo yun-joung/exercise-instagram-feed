@@ -1,0 +1,32 @@
+body{background:#bdbdbd;
+	text-transform: capitalize;
+	margin:0;}
+body header{background:white;
+	}
+div.cotainer{
+	width:600px;
+	margin: auto;
+	margin-bottom: 30px;
+	}
+.post{
+	background:white;
+}
+div.post-header {
+	display:inline-block;
+}
+div.post-header h2 {
+	width:500px;
+	float:left;
+}
+div.post-header span {
+	padding-top:35px;
+	color:gray;
+	float:left;
+}
+.post img{
+	background:white;
+	width:600px;
+}
+div.cotainer h1, div.post-header h2,.post-text{
+	padding:10px;
+}
